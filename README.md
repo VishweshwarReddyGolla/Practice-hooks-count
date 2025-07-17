@@ -1,12 +1,47 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🧮 Practice Hooks Counter App
 
-Currently, two official plugins are available:
+A modern **React + Vite** counter application built to practice React Hooks like `useState` and `useEffect`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This app demonstrates:
+- Counter functionality
+- Persistent state using `localStorage`
+- Dynamic color styling based on count value
+- Clean UI using CSS Flexbox
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Demo Screenshot
+
+> _(Add a screenshot image named `screenshot.png` in your project root if you want this to work)_
+
+![App Screenshot](./screenshot.png)
+
+---
+
+## 🚀 Features
+
+- ✅ Increment and decrement buttons
+- ✅ Reset to zero
+- ✅ Color changes for positive (green), negative (red), and zero (gray)
+- ✅ Auto-save count using `localStorage`
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS (Flexbox)
+
+---
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/VishweshwarReddyGolla/Practice-hooks-count.git
+cd Practice-hooks-count
