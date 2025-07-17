@@ -14,9 +14,8 @@ This app demonstrates:
 
 ## 📸 Demo Screenshot
 
-> _(Add a screenshot image named `screenshot.png` in your project root if you want this to work)_
+<img width="529" height="563" alt="image" src="https://github.com/user-attachments/assets/e5035d0f-c430-4fc5-95eb-d07ccffbd7c7" />
 
-![App Screenshot](./screenshot.png)
 
 ---
 
